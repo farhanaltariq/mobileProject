@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/visitCreator"
+        android:orderInCategory="100"
+        android:title="Visit Creator" />
+    <item
+        android:id="@+id/toFragment"
+        android:orderInCategory="120"
+        android:title="To Fragment" />
+    <item
+        android:id="@+id/useWebService"
+        android:orderInCategory="140"
+        android:title="Use Web Service"/>
+</menu>

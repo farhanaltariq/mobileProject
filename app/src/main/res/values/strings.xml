@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Mobile Project</string>
+    <string name="sports">Sports</string>
+    <string name="setting">Setting</string>
+    <string name="finance">Finance</string>
+    <string name="career">Career</string>
+    <string name="technology">Technology</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="lorem1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, corporis sunt! Aperiam ducimus sed reiciendis temporibus doloremque suscipit quis corrupti nostrum rerum non obcaecati</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="lorem2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. \nAnimi, corporis sunt! Aperiam ducimus sed reiciendis\ntemporibus doloremque suscipit quis corrupti nostrum\nrerum non obcaecati</string>
+    <string name="loremFull">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem sit illum tenetur nulla quae accusantium sunt dolores alias dolore sed delectus vero ipsum omnis, quis ipsam fugiat nesciunt magnam fuga expedita voluptates eius, odio nihil animi! Magnam odio ex cupiditate error quisquam fugiat cumque dicta nesciunt, excepturi qui optio corporis quod! Eveniet asperiores laudantium cupiditate eius eos provident consequuntur praesentium quisquam saepe deleniti fuga cum sapiente itaque quasi omnis blanditiis rerum et, at molestiae repudiandae ipsum. Consequatur vitae tempore molestiae atque impedit perferendis recusandae omnis! Quasi esse, expedita similique aliquid deleniti dolor libero harum et, neque hic, ut officiis saepe!</string>
+    <string name="loremHeader">LOREM IPSUM</string>
+    <string name="back">Back</string>
+    <string name="APPNAME">NEWS PORTAL</string>
+    <string name="APPWELCOME">N E W S P O R T A L</string>
+    <string name="uname">Username</string>
+    <string name="passwd">Password</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="signupButton">SIGNUP</string>
+    <string name="captcha">Captcha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">Cancel</string>
+    <string name="re_password">Re-Password</string>
+    <string name="n_e_w_s_p_o_r_t_al_n_sign_up">N E W S P O R T AL\n---Sign Up---</string>
+    <string name="add_news">Add News</string>
+    <string name="sensitive_content_restrictions">SENSITIVE CONTENT RESTRICTIONS</string>
+    <string name="dark_mode">DARK MODE</string>
+    <string name="news_preference">NEWS PREFERENCE</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="save">SAVE</string>
+    <string name="font_size">FONT SIZE</string>
+    <string name="ok">OK</string>
+    <string name="title">Title\t\t\t\t\t</string>
+    <string name="create_some_news">Create Some News</string>
+    <string name="writer">Writer\t\t\t\t</string>
+    <string name="category">Category\t</string>
+    <string name="news">News\t\t\t\t: </string>
+    <string name="insert_text_here">INSERT TEXT HERE</string>
+    <string name="update_content">Update Content</string>
+    <string name="content">Content</string>
+</resources>
