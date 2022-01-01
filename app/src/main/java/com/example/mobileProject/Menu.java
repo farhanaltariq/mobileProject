@@ -32,9 +32,15 @@ public class Menu extends Activity {
         Button addNews = findViewById(R.id.addButton);
         addNews.setOnClickListener(view -> addNews());
 
+        Button mapButton = findViewById(R.id.mapButton);
+        mapButton.setOnClickListener(view -> openMap());
         ma = this;
         dbcenter = new DataHelper(this);
         refreshList();
+    }
+    protected void openMap(){
+        Intent openMap = new Intent(this, MapsActivity.class);
+        startActivity(openMap);
     }
 
     public void refreshList(){

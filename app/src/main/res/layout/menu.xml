@@ -33,6 +33,15 @@
                 android:textAllCaps="false"
                 android:textSize="11sp"
                 tools:ignore="ButtonStyle,UsingOnClickInXml" />
+            <Button
+                android:id="@+id/mapButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:textSize="11sp"
+                android:layout_marginStart="10dp"
+                android:text="@string/see_on_map"
+                tools:ignore="ButtonStyle"/>
 
             <Button
                 android:id="@+id/menuButton3"
